@@ -7,7 +7,7 @@ require (
 	github.com/fatih/color v1.10.0
 	github.com/golang/mock v1.4.4
 	github.com/google/go-cmp v0.5.4
-	github.com/hashicorp/aws-sdk-go-base v0.7.0
+	github.com/hashicorp/aws-sdk-go-base v1.1.0
 	github.com/hashicorp/go-plugin v1.4.0
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hashicorp/hcl/v2 v2.7.2
