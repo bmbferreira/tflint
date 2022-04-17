@@ -17,7 +17,7 @@ jobs:
         os: [ubuntu-latest, windows-latest]
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Install latest version
       run: |
         bash install_linux.sh
@@ -32,7 +32,7 @@ jobs:
       image: hashicorp/terraform
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Install dependencies
       run: |
         apk add bash curl unzip sudo
