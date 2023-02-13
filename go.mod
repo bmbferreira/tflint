@@ -16,7 +16,7 @@ require (
 	github.com/hashicorp/go-plugin v1.4.5
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/go-version v1.6.0
-	github.com/hashicorp/hcl/v2 v2.13.0
+	github.com/hashicorp/hcl/v2 v2.16.1
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/terraform-registry-address v0.0.0-20220623143253-7d51757b572c
 	github.com/jessevdk/go-flags v1.5.0
@@ -29,7 +29,7 @@ require (
 	github.com/spf13/afero v1.9.2
 	github.com/terraform-linters/tflint-plugin-sdk v0.11.1-0.20220812135228-391859ca83f5
 	github.com/xeipuuv/gojsonschema v1.2.0
-	github.com/zclconf/go-cty v1.11.0
+	github.com/zclconf/go-cty v1.12.1
 	github.com/zclconf/go-cty-yaml v1.0.2
 	golang.org/x/crypto v0.0.0-20220517005047-85d78b3ac167
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e
