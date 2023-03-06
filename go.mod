@@ -22,7 +22,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/sourcegraph/go-lsp v0.0.0-20200429204803-219e11d77f5d
-	github.com/sourcegraph/jsonrpc2 v0.1.0
+	github.com/sourcegraph/jsonrpc2 v0.2.0
 	github.com/spf13/afero v1.9.4
 	github.com/terraform-linters/tflint-plugin-sdk v0.15.1-0.20230225141907-dd804b3671af
 	github.com/terraform-linters/tflint-ruleset-terraform v0.2.2
